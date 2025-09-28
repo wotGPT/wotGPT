@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wotGPT
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning python / HTML / CSS/ JavaScript/ CompTIA A+
-- 💞️ I am open to collaborating with everyone I can!
 - 📫 wyzirdly@gmail.com
 
 <!---
