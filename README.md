@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wotGPT
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently learning python / HTML / CSS/ JavaScript/ CompTIA A+
+- 👀 I’m just interested in learning
+- 🌱 I’m currently learning networking (ccna)
 - 📫 wyzirdly@gmail.com
 
 <!---
