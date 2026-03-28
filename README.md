@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wotGPT
 - 👀 I’m just interested in learning
-- 🌱 I’m currently learning networking (ccna)
+- 🌱 Currently focusing on networking (ccna)
 - 📫 wyzirdly@gmail.com
 
 <!---
